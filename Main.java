@@ -3,7 +3,7 @@ import sample.Operand;
 
 class Main {
     public static void main(String args[]){
-        
+
         //スペース有り
         Format.init();
 
